@@ -1,4 +1,4 @@
 # VulkanShadowMapping
-![Illustration](https://imgur.com/a/oAKnqfg)
+![Illustration](image.png)
 
 ShadowMapping project which uses Vulkan API
