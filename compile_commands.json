@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana",
+  "command": "/usr/bin/c++  -DGLFW_DLL -D_CRT_SECURE_NO_WARNINGS    -std=gnu++11 -o CMakeFiles/vulkan_minimal_graphics.dir/src/main.cpp.o -c /home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/src/main.cpp",
+  "file": "/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/src/main.cpp"
+},
+{
+  "directory": "/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana",
+  "command": "/usr/bin/c++  -DGLFW_DLL -D_CRT_SECURE_NO_WARNINGS    -std=gnu++11 -o CMakeFiles/vulkan_minimal_graphics.dir/src/vk_utils.cpp.o -c /home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/src/vk_utils.cpp",
+  "file": "/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/src/vk_utils.cpp"
+}
+]

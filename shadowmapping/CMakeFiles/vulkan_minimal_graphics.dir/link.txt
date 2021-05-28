@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/vulkan_minimal_graphics.dir/src/main.cpp.o CMakeFiles/vulkan_minimal_graphics.dir/src/vk_utils.cpp.o  -o vulkan_minimal_graphics /usr/lib/x86_64-linux-gnu/libvulkan.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 

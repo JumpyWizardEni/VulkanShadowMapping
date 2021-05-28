@@ -1,0 +1,3 @@
+/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/shadowmapping/CMakeFiles/rebuild_cache.dir
+/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/shadowmapping/CMakeFiles/vulkan_minimal_graphics.dir
+/home/timofeq/JumpyWiz/CPPsemestr4/homework/Sylvana/shadowmapping/CMakeFiles/edit_cache.dir
